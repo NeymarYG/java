@@ -1,0 +1,9 @@
+一、git clone https网址（github中的）
+
+二、git add 文件名 （添加文件进缓存区）
+
+三、git commit -m “（注释内容）”	（提交到本地仓库）
+
+四、git push   （上传文件到远程仓库）
+
+五、git pull  （从远程仓库中抓取最新的文件到本地仓库）
